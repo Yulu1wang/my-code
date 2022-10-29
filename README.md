@@ -20,9 +20,9 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Tech 1 - random,loop structure,judgement statement，arrays，lists,  
+- Tech 2 - tkinter. Most technique i used is from tkinter including to create canvases, located buttons, and input function. 
+
 
 
 ## Features
