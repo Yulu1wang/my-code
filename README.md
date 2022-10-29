@@ -32,10 +32,12 @@
 List the ready features here:
 - Interface menu of the examination system; there are three buttons in main interface, there are “Information collect button””start”and “results”.The Collect Information button represents the student who needs to fill in their name and student number. Clicking on the start button means that the test is about to start and the result means that the student can view their score to determine if they passed the test.
 
-- Test question entry.
-- Answer.
-- Automatic test paper judging.
-- Exit the program.
+- Test question entry:the teachers can add test questions to the test question library at any time. Each test question includes the question stem, 4 alternative answers and standard answers; There are five test questions in a set, but the order of the questions is different for different students. This means that the order of the five questions is random, and is designed to prevent students from cheating, thus undermining the fairness of the exam.
+
+- Answer:users can input their own answers; in this part users get 10 points if they select correct answer, 0 point for wrong
+
+- Automatic test paper judging:the system can judge the test paper according to the comparison between the user's answers and the standard answers and give the results. When students Click "result" button to get the score. the total score above 30 get "Pass", the summary points below 30 get "failed", users get " congratulation" means they get 50 points all correct.
+- Exit the program!
 
 
 
