@@ -109,6 +109,9 @@ class main_interface(object):
             tkinter.messagebox.showinfo('Congratulations', 'you pass the test！')
         if self.mark == 50:
             tkinter.messagebox.showinfo('1111111111111','Congratulations, All correct!')
+        if self.mark >= 60:
+            tkinter.messagebox.showinfo('1111111111111','How dare you! Dont cheat!!!')
+
 
 
 
