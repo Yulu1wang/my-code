@@ -6,12 +6,11 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
@@ -40,16 +39,8 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+This project does not require too much software to be installed, as the project is mainly composed of code. So users can simply download a python and open 
+the file to try it out.
 
 
 ## Project Status
@@ -61,27 +52,21 @@ Project is: _in progress_ . The basic code structure is complete and operational
 
 Room for improvement:
 - I still lack the actual data to test the validity of my code and identify potential errors in it.
-- Not fully beautified to the desired degree, need to further learn how to use the GUI
+- Not fully beautified to the desired degree, need to further learn how to use the GUI.
 - The current program is only for single choice questions, and the test questions lack variety, such as multiple choice, quiz questions, etc.
 
 To do:
-- Change function: If students enter the wrong student ID number or answer they will not be able to return
-- Feature to be added 2
+- Change function: If students enter the wrong student ID number or answer they will not be able to return.
+- If the student does not exit the program, the grades will be stacked indefinitely.
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by Covid-19 and the popularity of computers and the Internet.
+
+- I would like to thank Dr. Bailo for a wonderful, knowledgeable, and meaningful semester. This semester has created a strong interest in learning code and made me realize that code has become an indispensable part of this era. And some of my friends, I asked some questions about GUI design like them, and they were very patient to tell me some knowledge about it and let me have more understanding.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@13671173@student.uts.edu.au] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
