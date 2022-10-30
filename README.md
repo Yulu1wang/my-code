@@ -2,7 +2,7 @@
 >  Hi! I am Yulu Wang. I'am interetsted in learning new things! so currently learning python!!
 
 
->  My goal is to design a examination system using python language. It can provide a platform for teachers to roll out exams with standardized answers, while students can complete tests or quizzes on this platform and get instant feedback on the grading results. By simply collecting written information from students and comparing it with their answer sheets, the platform can automatically determine students' academic performance and give them a "fail" or "pass" result.
+>  My goal is to design an examination system using python language. It can provide a platform for teachers to roll out exams with standardized answers, while students can complete tests or quizzes on this platform and get instant feedback on the grading results. By simply collecting written information from students and comparing it with their answer sheets, the platform can automatically determine students' academic performance and give them a "fail" or "pass" result.
 
 ## Table of Contents
 * [General Info](#general-information)
