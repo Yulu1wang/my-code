@@ -66,10 +66,10 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
+
 - This project was inspired by Covid-19 and the popularity of computers and the Internet.
 
-- I would like to thank Dr. Bailo for a wonderful, knowledgeable, and meaningful semester. This semester has created a strong interest in learning code and made me realize that code has become an indispensable part of this era. And some of my friends, I asked some questions about GUI design like them, and they were very patient to tell me some knowledge about it and let me have more understanding.
+- I would like to thank Dr. Bailo for a wonderful, knowledgeable, and meaningful semester. This semester has created a strong interest in learning code and made me realize that code has become an indispensable part of this era. And some of my friends, I asked some questions about GUI design, and they were very patient to tell me some knowledge about it and let me have more understanding.
 
 
 ## Contact
